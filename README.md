@@ -2,7 +2,7 @@
 
 An analyst and engineer in the programmatic advertising space
 
-### experience
+## experience
 
 - Advanced MySQL and [Google BigQuery](https://cloud.google.com/bigquery/)
 - Advanced [Looker](https://looker.com/) (LookML) development
