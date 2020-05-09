@@ -1,6 +1,6 @@
 ## about me
 
-An analyst and engineer in the programmatic advertising space
+An analyst and engineer with experience in the programmatic advertising and utilities spaces
 
 ## experience
 
@@ -9,4 +9,4 @@ An analyst and engineer in the programmatic advertising space
 - Evaluating metrics and measurement
 - Developing measurement solutions in advertising, with major award recognition
 - Development of proprietary Python ETL system
-- Beginner in [Apache Airflow](https://airflow.apache.org/) development
+- Developing [Apache Airflow](https://airflow.apache.org/) pipelines
